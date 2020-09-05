@@ -1,4 +1,4 @@
-# ~~停止维护~~ ~~再维护亿下~~ 等konge佬出新版
+# ~~停止维护~~ ~~再维护亿下~~ ~~等konge佬出新版~~ 被<span color=deeppink style="color:deeppink;">粉色</span>钦点更新
 原因：~~找到替代品~~ ~~console出现了不兼容更新~~
 ### 本次为不兼容更新，mirai与miraiOK均为不兼容更新，此版本将不会推送至已有版本。
 
